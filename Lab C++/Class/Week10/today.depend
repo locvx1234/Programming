@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1428563606 source:c:\users\john\documents\test\today\main.cpp
+	<iostream>
+	<cstring>
+	"sinhvien.h"
+	"monhoc.h"
+
+1428562405 
+
+1428562450 c:\users\john\documents\test\today\monhoc.h
+	<iostream>
+	<cstring>
+
+1428562450 
+
+1428561823 source:c:\users\john\documents\test\today\monhoc.cpp
+	"monhoc.h"
+
+1428562405 c:\users\john\documents\test\today\sinhvien.h
+	<iostream>
+	<cstring>
+	"monhoc.h"
+
+1428569040 source:/home/locvx/Dropbox/Lab C++/Class/Week10/main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"sinhvien.h"
+	"monhoc.h"
+
+1428569052 /home/locvx/Dropbox/Lab C++/Class/Week10/sinhvien.h
+	<iostream>
+	<cstring>
+	"monhoc.h"
+
+1428569050 /home/locvx/Dropbox/Lab C++/Class/Week10/monhoc.h
+	<iostream>
+	<cstring>
+
+1428569048 source:/home/locvx/Dropbox/Lab C++/Class/Week10/monhoc.cpp
+	"monhoc.h"
+

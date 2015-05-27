@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1425410869 source:d:\lab c++\th03\muatragop\main.cpp
+	"iostream"
+	"ThuNhap.h"
+
+1425410820 d:\lab c++\th03\muatragop\thunhap.h
+
+1425409957 source:d:\lab c++\th03\muatragop\thunhap.cpp
+	"ThuNhap.h"
+	"iostream"
+
+1425409727 source:d:\lab c++\th03\muatragop\thunhapsauthue.cpp
+	"ThuNhap.h"
+	"iostream"
+
+1425411044 source:d:\lab c++\th03\muatragop\vaynganhang.cpp
+	"iostream"
+	"ThuNhap.h"
+
+1425409957 source:d:\lab c++\th03\muatragop_2\thunhap.cpp
+	"ThuNhap.h"
+	"iostream"
+
+1425410820 d:\lab c++\th03\muatragop_2\thunhap.h
+
+1425409727 source:d:\lab c++\th03\muatragop_2\thunhapsauthue.cpp
+	"ThuNhap.h"
+	"iostream"
+
+1425411044 source:d:\lab c++\th03\muatragop_2\vaynganhang.cpp
+	"iostream"
+	"ThuNhap.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1428591537 source:/home/locvx/Dropbox/Lab C++/Tach giao dien va cai dat/doy/DayOfYear.cpp
+	"DayOfYear.h"
+	<iostream>
+	<cstdlib>
+
+1428632080 /home/locvx/Dropbox/Lab C++/Tach giao dien va cai dat/doy/DayOfYear.h
+
+1428629885 source:/home/locvx/Dropbox/Lab C++/Tach giao dien va cai dat/doy/main.cpp
+	"DayOfYear.h"
+	<iostream>
+	<cstdlib>
+

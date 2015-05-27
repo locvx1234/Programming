@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1431099766 source:/home/locvx/Dropbox/Lab C++/TH11/VN-Airlines/main.cpp
+	<iostream>
+	"VNA.h"
+
+1431104449 /home/locvx/Dropbox/Lab C++/TH11/VN-Airlines/VNA.h
+	"iostream"
+	"iomanip"
+
+1431110281 source:/home/locvx/Dropbox/Lab C++/TH11/VN-Airlines/VNA.cpp
+	"VNA.h"
+	"iostream"
+	"iomanip"
+

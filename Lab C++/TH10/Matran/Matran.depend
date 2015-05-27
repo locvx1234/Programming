@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1430926109 source:/home/locvx/Dropbox/Lab C++/TH10/Matran/Matran.cpp
+	<iostream>
+	"iomanip"
+	"Matran.h"
+
+1430926109 /home/locvx/Dropbox/Lab C++/TH10/Matran/Matran.h
+	"iostream"
+	"iomanip"
+
+1430926024 source:/home/locvx/Dropbox/Lab C++/TH10/Matran/main.cpp
+	<iostream>
+	"iomanip"
+	"Matran.h"
+
+1430926109 source:/home/locvx/Dropbox/Lab C++/TH10 (copy)/Matran/Matran.cpp
+	<iostream>
+	"iomanip"
+	"Matran.h"
+
+1430926109 /home/locvx/Dropbox/Lab C++/TH10 (copy)/Matran/Matran.h
+	"iostream"
+	"iomanip"
+
+1430926024 source:/home/locvx/Dropbox/Lab C++/TH10 (copy)/Matran/main.cpp
+	<iostream>
+	"iomanip"
+	"Matran.h"
+

@@ -1,0 +1,4 @@
+print ("Helo, Python Viet Nam!")
+print ()
+print ("Suppose two  swallows \"carry\" it together.")
+print ('African or "European" swallows?')

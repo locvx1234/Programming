@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1429712188 source:/home/locvx/Dropbox/Lab C++/TH09/Lab09_2/main.cpp
+	<iostream>
+	"Phan_so.h"
+
+1429709096 /home/locvx/Dropbox/Lab C++/TH09/Lab09_2/Phan_so.h
+
+1429712188 source:/home/locvx/Dropbox/Lab C++/TH09/Lab09_2/Phan_so.cpp
+	"Phan_so.h"
+	"iostream"
+	"cmath"
+

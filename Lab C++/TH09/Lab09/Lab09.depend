@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1429697651 source:/home/locvx/Dropbox/Lab C++/TH09/Lab09/Diem.cpp
+	"Diem.h"
+	"iostream"
+	"cmath"
+
+1429710053 source:/home/locvx/Dropbox/Lab C++/TH09/Lab09/main.cpp
+	<iostream>
+	"Diem.h"
+
+1429696867 /home/locvx/Dropbox/Lab C++/TH09/Lab09/Diem.h
+
